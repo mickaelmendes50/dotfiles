@@ -11,3 +11,5 @@ Invoke-WebRequest -Uri "https://raw.githubusercontent.com/mickaelmendes50/dotfil
 ```
 Powershell.exe -ExecutionPolicy RemoteSigned -File  "C:\adb-usb-driver.ps1"
 ```
+3. Go to Windows Update and check for "Optional Updates"
+4. Enjoy :)
