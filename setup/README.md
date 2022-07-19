@@ -1,4 +1,4 @@
-# PowerShell Script for download and config platform-tools and Google USB Driver as Environment Variable.
+### PowerShell Script for download and config platform-tools and Google USB Driver as Environment Variable.
 
 Steps:
 1. Run PowerShell as Admnistrator
