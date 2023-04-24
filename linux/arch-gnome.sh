@@ -23,4 +23,4 @@ sudo systemctl enable bluetooth.service
 sudo systemctl start bluetooth.service --now
 
 # Install my apps
-yay -S google-chrome vscode sublime-text-4 telegram-desktop slack-desktop whatsdesk-bin
+yay -S google-chrome vscode sublime-text-4 telegram-desktop slack-desktop
