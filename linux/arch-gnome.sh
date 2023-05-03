@@ -7,7 +7,7 @@ sudo pacman -Syu
 sudo pacman -S gedit byobu neofetch gufw fwupd ntfs-3g flatpak gnome-software-packagekit-plugin ffmpeg gst-plugins-ugly gst-plugins-good gst-plugins-base gst-plugins-bad gst-libav gstreamer git base-devel
 
 # Android Building Packages
-sudo pacman -S repo lzop maven pngcrush schedtool squashfs-tools bc ccache gperf optipng rsync
+sudo pacman -S repo lzop maven pngcrush schedtool squashfs-tools bc ccache gperf optipng rsync android-tools
 
 # Install Yay
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
