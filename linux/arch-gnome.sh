@@ -4,7 +4,7 @@
 sudo pacman -Syu
 
 # Useful Packages
-sudo pacman -S gedit byobu neofetch gufw fwupd ntfs-3g flatpak gnome-software-packagekit-plugin ffmpeg gst-plugins-ugly gst-plugins-good gst-plugins-base gst-plugins-bad gst-libav gstreamer git base-devel
+sudo pacman -S gedit byobu neofetch gufw fwupd ntfs-3g flatpak gnome-software-packagekit-plugin ffmpeg gst-plugins-ugly gst-plugins-good gst-plugins-base gst-plugins-bad gst-libav gstreamer git base-devel zip
 
 # Android Building Packages
 sudo pacman -S repo lzop maven pngcrush schedtool squashfs-tools bc ccache gperf optipng rsync android-tools
